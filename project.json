@@ -1,0 +1,26 @@
+{
+  "slug": "inverter-cnn-lstm",
+  "repository": "inverter-cnn-lstm",
+  "title": "CNN-LSTM for anomaly detection in actuator power inverters",
+  "doi": "10.1109/ICSRS68021.2025.11422055",
+  "venue": "ICSRS 2025",
+  "visibility": "private",
+  "source_files": [
+    {
+      "original_relative_path": "all_materials/master_thesis_Aruna/master_thesis_Aruna/model_comparison_torino/sin_cnnlstm/sin_cnnlstm.ipynb",
+      "sha256": "3659de9aa9d50a9f940896ec665c1825089db5675c5027290e62bee4d41c7b4a",
+      "archived_as": "legacy/01_sin_cnnlstm.ipynb",
+      "notebook_outputs_removed": true
+    },
+    {
+      "original_relative_path": "all_materials/master_thesis_Aruna/master_thesis_Aruna/model_comparison_torino/sawtooth_cnnlstm/sawtooth_cnnlstm.ipynb",
+      "sha256": "21de0e1673ba42d1f0e3b7dbc3dcc76c0a8428b8119387506cd2def39f7a7359",
+      "archived_as": "legacy/02_sawtooth_cnnlstm.ipynb",
+      "notebook_outputs_removed": true
+    }
+  ],
+  "recovery_date": "2026-10-23",
+  "entrypoint": "python run.py",
+  "validation": "synthetic and local-data short runs passed; checkpoint regression passed",
+  "reproduction_status": "not a full reproduction of paper results"
+}

@@ -25,3 +25,4 @@ This is a TensorFlow-to-PyTorch port, not a conversion of trained weights. The r
 - Add replay privacy/provenance regressions and dependency advisory checks on all three hosted operating systems.
 - Avoid duplicate push/PR checks and cancel superseded workflow runs.
 - Record explicit release decisions; no rights, dataset license or scientific approval is assumed.
+- Hosted advisory checking exposed certifi 2026.7.22 inherited from a runner. Pin audit tooling to certifi 2026.10.19 (PYSEC-2026-4320 / GHSA-6q48-6c7w-9gw2) without suppressing the advisory.

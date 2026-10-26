@@ -10,17 +10,19 @@
       "original_relative_path": "all_materials/master_thesis_Aruna/master_thesis_Aruna/model_comparison_torino/sin_cnnlstm/sin_cnnlstm.ipynb",
       "sha256": "3659de9aa9d50a9f940896ec665c1825089db5675c5027290e62bee4d41c7b4a",
       "archived_as": "legacy/01_sin_cnnlstm.ipynb",
-      "notebook_outputs_removed": true
+      "notebook_outputs_removed": true,
+      "archived_sha256": "4ac72f68453049b9e497a89611462bdc6410d9dea82979ff79b31aa0d6c37cd1"
     },
     {
       "original_relative_path": "all_materials/master_thesis_Aruna/master_thesis_Aruna/model_comparison_torino/sawtooth_cnnlstm/sawtooth_cnnlstm.ipynb",
       "sha256": "21de0e1673ba42d1f0e3b7dbc3dcc76c0a8428b8119387506cd2def39f7a7359",
       "archived_as": "legacy/02_sawtooth_cnnlstm.ipynb",
-      "notebook_outputs_removed": true
+      "notebook_outputs_removed": true,
+      "archived_sha256": "c8a2e6418b0daca4a4385705fb7045050657b2328988e99350adb98dfd102ddf"
     }
   ],
   "recovery_date": "2026-10-23",
   "entrypoint": "python run.py",
-  "validation": "synthetic and local-data short runs passed; checkpoint regression passed",
+  "validation": "See VALIDATION.md for dated execution evidence and unverified scope.",
   "reproduction_status": "not a full reproduction of paper results"
 }

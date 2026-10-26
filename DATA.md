@@ -1,6 +1,6 @@
 # Local data contract
 
-No research data are bundled. Obtain access from the dataset owner; a publication DOI does not grant redistribution rights. `--data-root` is the root of the corresponding original project, not this repository.
+No research data are bundled. Dataset ownership, external access conditions and redistribution terms have not been verified for this code release. This repository does not offer a download or promise access on request. A publication DOI does not grant redistribution rights. Use only data you are independently authorized to access. `--data-root` is the root of the corresponding original project, not this repository.
 
 `all_materials/master_thesis_Aruna/master_thesis_Aruna/model_comparison_torino/data/sin.mat`: arrays `VAs`, `thetaMs`, `DTheta_ms`, `IAs`, observed shape (20001,30). Columns are independent simulations. Features are VA, -0.95765*sin(4*thetaM), and DTheta; target is IA.
 

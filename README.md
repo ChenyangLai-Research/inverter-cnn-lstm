@@ -18,7 +18,7 @@ CUDA and MPS execution are not implemented by this runner. MATLAB, ANSYS and Ten
 Clone the repository using an account with access while it remains private:
 
 ```sh
-git clone https://github.com/wowSUNBOY/inverter-cnn-lstm.git
+git clone https://github.com/ChenyangLai-Research/inverter-cnn-lstm.git
 cd inverter-cnn-lstm
 ```
 
